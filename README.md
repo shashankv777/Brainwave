@@ -1,4 +1,3 @@
-<img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
 
 # Brainwave
 
@@ -17,3 +16,5 @@
 👉 **Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
 
 👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
+
+## ProjectLink -> https://brainwave-9uar3ycz7-shashankv777s-projects.vercel.app
