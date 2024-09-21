@@ -17,4 +17,4 @@
 
 👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
 
-## ProjectLink -> https://brainwave-9uar3ycz7-shashankv777s-projects.vercel.app
+## ProjectLink -> https://brainwave-three-gules.vercel.app/
